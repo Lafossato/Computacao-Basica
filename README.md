@@ -202,9 +202,13 @@ A **CPU** é o "cérebro" do computador.
 ## 📌 Resumo dos Conceitos Importantes
 
 ✔️ Aplicativos, computadores e redes formam a base do mundo digital.
+
 ✔️ Um **servidor** fornece serviços para outros computadores.
+
 ✔️ Um **data center** armazena servidores e equipamentos de rede.
+
 ✔️ A **virtualização** permite rodar VMs em um mesmo hardware.
+
 ✔️ A computação em **nuvem** torna a infraestrutura flexível e escalável.
 
 ---
